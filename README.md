@@ -13,7 +13,3 @@ This mod added many new foods on the basis of the original mod.
 本模组对原模组中物品食用价值进行了微调整。
 
 This mod changed the food levels of the food in the original mod.
-
-模组遵循MIT许可证。
-
-The mod complies with MIT license.
