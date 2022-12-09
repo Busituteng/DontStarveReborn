@@ -1,5 +1,5 @@
 # [DSR] DontStarveReborn 不要饿死：重生
-![GitHub](https://img.shields.io/github/license/Busituteng/DontStarveReborn)
+
 ![Modrinth](https://img.shields.io/modrinth/dt/JjAL4R92)
 
 不要饿死：重生(DSR)是不要饿死(No Starve To Death)的 1.12.2 非官方重制版。
