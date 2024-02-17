@@ -1,0 +1,16 @@
+{
+  "group": "dontstarvereborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "minecraft:ender_pearl"
+    }
+  ],
+  "result": {
+    "item": "dontstarvereborn:soakenderpearl",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "group": "dontstarvereborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:leaves",
+      "data": 0
+    },
+    {
+      "item": "dontstarvereborn:ironknife"
+    }
+  ],
+  "result": {
+    "item": "dontstarvereborn:leaves",
+    "count": 1
+  }
+}

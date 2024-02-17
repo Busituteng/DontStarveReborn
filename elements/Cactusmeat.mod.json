@@ -1,0 +1,26 @@
+{
+  "_fv": 18,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "cactus_meat",
+    "customModelName": "Normal",
+    "name": "Cactus Meat",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Dsr"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 2,
+    "saturation": 0.0,
+    "eatingSpeed": 32,
+    "forDogs": true,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "CactusmeatFoodEaten"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_fv": 18,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "magma_cream_lollipop",
+    "customModelName": "Normal",
+    "name": "Magma Cream Lollipop",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Dsr"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 3,
+    "saturation": 0.1,
+    "eatingSpeed": 32,
+    "forDogs": true,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "MagmacreamlollipopFoodEaten"
+    }
+  }
+}

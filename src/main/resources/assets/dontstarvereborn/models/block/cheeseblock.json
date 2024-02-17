@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dontstarvereborn:blocks/cheese_block",
+    "up": "dontstarvereborn:blocks/cheese_block",
+    "north": "dontstarvereborn:blocks/cheese_block",
+    "east": "dontstarvereborn:blocks/cheese_block",
+    "south": "dontstarvereborn:blocks/cheese_block",
+    "west": "dontstarvereborn:blocks/cheese_block",
+    "particle": "dontstarvereborn:blocks/cheese_block"
+  }
+}

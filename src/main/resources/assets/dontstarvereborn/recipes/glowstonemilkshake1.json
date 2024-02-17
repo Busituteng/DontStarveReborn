@@ -1,0 +1,36 @@
+{
+  "group": "dontstarvereborn",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "1": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "2": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "3": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "4": {
+      "item": "dontstarvereborn:cheese"
+    },
+    "5": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "7": {
+      "item": "dontstarvereborn:papercup"
+    }
+  },
+  "result": {
+    "item": "dontstarvereborn:glowstonemilkshake",
+    "count": 1
+  }
+}

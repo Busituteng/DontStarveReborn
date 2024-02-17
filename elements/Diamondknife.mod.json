@@ -1,0 +1,29 @@
+{
+  "_fv": 18,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "diamond_knife",
+    "customModelName": "Normal",
+    "name": "Diamond Knife",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:Dsr"
+    },
+    "stackSize": 1,
+    "enchantability": 1,
+    "useDuration": 512,
+    "toolType": 2.1,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [],
+    "hasGlow": false,
+    "inventorySize": 9,
+    "inventoryStackSize": 64
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "dontstarvereborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bone"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    }
+  ],
+  "result": {
+    "item": "dontstarvereborn:soakbone",
+    "count": 1
+  }
+}

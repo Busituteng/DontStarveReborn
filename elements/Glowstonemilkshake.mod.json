@@ -1,0 +1,26 @@
+{
+  "_fv": 18,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "glowstone_milk_shake",
+    "customModelName": "Normal",
+    "name": "Glowstone Milk Shake",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Dsr"
+    },
+    "stackSize": 1,
+    "nutritionalValue": 7,
+    "saturation": 0.1,
+    "eatingSpeed": 32,
+    "forDogs": true,
+    "isAlwaysEdible": true,
+    "animation": "drink",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "GlowstonemilkshakeFoodEaten"
+    }
+  }
+}

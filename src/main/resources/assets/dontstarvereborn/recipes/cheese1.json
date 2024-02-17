@@ -1,0 +1,19 @@
+{
+  "group": "dontstarvereborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "dontstarvereborn:ironknife"
+    }
+  ],
+  "result": {
+    "item": "dontstarvereborn:cheese",
+    "count": 1
+  }
+}

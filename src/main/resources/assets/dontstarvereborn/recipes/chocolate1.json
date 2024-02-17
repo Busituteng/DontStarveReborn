@@ -1,0 +1,38 @@
+{
+  "group": "dontstarvereborn",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dye",
+      "data": 3
+    },
+    "1": {
+      "item": "minecraft:dye",
+      "data": 3
+    },
+    "2": {
+      "item": "minecraft:dye",
+      "data": 3
+    },
+    "3": {
+      "item": "minecraft:dye",
+      "data": 3
+    },
+    "4": {
+      "item": "minecraft:dye",
+      "data": 3
+    },
+    "5": {
+      "item": "minecraft:dye",
+      "data": 3
+    }
+  },
+  "result": {
+    "item": "dontstarvereborn:chocolate",
+    "count": 1
+  }
+}

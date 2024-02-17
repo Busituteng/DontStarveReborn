@@ -1,0 +1,17 @@
+{
+  "group": "dontstarvereborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:log",
+      "data": 0
+    },
+    {
+      "item": "dontstarvereborn:diamondknife"
+    }
+  ],
+  "result": {
+    "item": "dontstarvereborn:treebark",
+    "count": 4
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "group": "dontstarvereborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dontstarvereborn:roastbrownmushroom"
+    },
+    {
+      "item": "dontstarvereborn:roastredmushroom"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "dontstarvereborn:warmedmushroomstew",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "dontstarvereborn",
+    "name": "DontStarveReborn",
+    "description": "Don't Starve!",
+    "version": "2.4.4.3",
+    "credits": "MCreator",
+    "logoFile": "assets/dontstarvereborn/textures/logo.png",
+    "mcversion": "1.12.2",
+    "url": "https://www.mcmod.cn/class/6144.html",
+    "updateUrl": "https://www.mcmod.cn/download/6144.html",
+    "authorList": [
+      "BunnimimiTotem"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "_fv": 18,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "grass_salad",
+    "customModelName": "Normal",
+    "name": "Grass Salad",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Dsr"
+    },
+    "stackSize": 1,
+    "nutritionalValue": 6,
+    "saturation": 0.1,
+    "eatingSpeed": 32,
+    "forDogs": true,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "GrasssaladFoodEaten"
+    }
+  }
+}

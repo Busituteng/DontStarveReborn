@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dontstarvereborn:blocks/chocolate_block",
+    "up": "dontstarvereborn:blocks/chocolate_block",
+    "north": "dontstarvereborn:blocks/chocolate_block",
+    "east": "dontstarvereborn:blocks/chocolate_block",
+    "south": "dontstarvereborn:blocks/chocolate_block",
+    "west": "dontstarvereborn:blocks/chocolate_block",
+    "particle": "dontstarvereborn:blocks/chocolate_block"
+  }
+}

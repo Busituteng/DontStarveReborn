@@ -1,0 +1,17 @@
+{
+  "group": "dontstarvereborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dontstarvereborn:diamondknife"
+    },
+    {
+      "item": "minecraft:red_flower",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "dontstarvereborn:nectar",
+    "count": 2
+  }
+}

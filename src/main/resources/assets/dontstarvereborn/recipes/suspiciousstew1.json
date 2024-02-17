@@ -1,0 +1,23 @@
+{
+  "group": "dontstarvereborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "minecraft:red_mushroom"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "minecraft:yellow_flower",
+      "data": 32767
+    }
+  ],
+  "result": {
+    "item": "dontstarvereborn:suspiciousstew",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "dontstarvereborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dontstarvereborn:cheeseblock"
+    }
+  ],
+  "result": {
+    "item": "dontstarvereborn:cheese",
+    "count": 9
+  }
+}

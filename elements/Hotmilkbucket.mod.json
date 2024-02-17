@@ -1,0 +1,26 @@
+{
+  "_fv": 18,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "hot_milk_bucket",
+    "customModelName": "Normal",
+    "name": "Hot Milk Bucket",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Dsr"
+    },
+    "stackSize": 1,
+    "nutritionalValue": 4,
+    "saturation": 0.30000000000000004,
+    "eatingSpeed": 32,
+    "forDogs": true,
+    "isAlwaysEdible": true,
+    "animation": "drink",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "HotmilkbucketFoodEaten"
+    }
+  }
+}

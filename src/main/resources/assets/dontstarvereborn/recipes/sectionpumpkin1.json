@@ -1,0 +1,16 @@
+{
+  "group": "dontstarvereborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dontstarvereborn:ironknife"
+    },
+    {
+      "item": "minecraft:pumpkin"
+    }
+  ],
+  "result": {
+    "item": "dontstarvereborn:sectionpumpkin",
+    "count": 1
+  }
+}

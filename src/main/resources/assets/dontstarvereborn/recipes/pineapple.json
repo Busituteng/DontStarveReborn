@@ -1,0 +1,16 @@
+{
+  "group": "dontstarvereborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dontstarvereborn:carrple"
+    },
+    {
+      "item": "dontstarvereborn:ironknife"
+    }
+  ],
+  "result": {
+    "item": "paster_fix:pineapple",
+    "count": 1
+  }
+}

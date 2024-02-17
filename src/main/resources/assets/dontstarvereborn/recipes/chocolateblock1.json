@@ -1,0 +1,37 @@
+{
+  "group": "dontstarvereborn",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dontstarvereborn:chocolate"
+    },
+    {
+      "item": "dontstarvereborn:chocolate"
+    },
+    {
+      "item": "dontstarvereborn:chocolate"
+    },
+    {
+      "item": "dontstarvereborn:chocolate"
+    },
+    {
+      "item": "dontstarvereborn:chocolate"
+    },
+    {
+      "item": "dontstarvereborn:chocolate"
+    },
+    {
+      "item": "dontstarvereborn:chocolate"
+    },
+    {
+      "item": "dontstarvereborn:chocolate"
+    },
+    {
+      "item": "dontstarvereborn:chocolate"
+    }
+  ],
+  "result": {
+    "item": "dontstarvereborn:chocolateblock",
+    "count": 1
+  }
+}
